@@ -309,4 +309,4 @@ Las siguientes mejoras están priorizadas en función del valor de negocio que a
 
 ## 📄 Licencia
 
-MIT License — libre para uso, modificación y distribución.
+Este proyecto está bajo la [Licencia MIT](LICENSE) — libre para uso como referencia, aprendizaje o desarrollo de proyectos propios.
